@@ -19,3 +19,6 @@ cache/
 
 # Large dataset
 data/posts.csv
+data/post_embeddings.npz
+
+secrets/

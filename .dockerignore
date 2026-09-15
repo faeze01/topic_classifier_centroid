@@ -1,0 +1,9 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+.env
+data/posts.csv
+data/post_embeddings.npz
+scratch/
+visualizations/

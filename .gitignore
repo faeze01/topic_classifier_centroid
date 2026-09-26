@@ -21,4 +21,7 @@ cache/
 data/posts.csv
 data/post_embeddings.npz
 
-secrets/
+# Local JSONL dumps and batch CSV next to them
+/*.jsonl
+/*.csv
+
